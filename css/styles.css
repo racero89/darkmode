@@ -17,17 +17,23 @@ ul[div="Portada"] {
     
 }
 
-
-
-
-
-button {
+.DarkModel {
     background-color: white;
     border-radius: 10px;
     cursor: pointer;
     position: absolute;
     right: 0;
+    
 }
+.whiteModel{
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    position: absolute;
+    right: 0; 
+}
+
+
  
 .descripcion p {
     
@@ -37,3 +43,6 @@ font-size: 17px;
 margin-right: 10px;
 display: inline-block;
 }
+
+
+
